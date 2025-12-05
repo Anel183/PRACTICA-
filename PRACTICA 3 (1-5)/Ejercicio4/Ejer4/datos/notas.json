@@ -1,0 +1,49 @@
+{
+  "nombreArchi": "Registro UMSA 2025",
+  "notas": [
+    {
+      "materia": "Programación",
+      "notaFinal": 95.0,
+      "estudiante": {
+        "ru": "2023001",
+        "nombre": "Juan",
+        "paterno": "Perez",
+        "materno": "Gomez",
+        "edad": 20
+      }
+    },
+    {
+      "materia": "Base de Datos",
+      "notaFinal": 88.0,
+      "estudiante": {
+        "ru": "2023001",
+        "nombre": "Juan",
+        "paterno": "Perez",
+        "materno": "Gomez",
+        "edad": 20
+      }
+    },
+    {
+      "materia": "Programación",
+      "notaFinal": 100.0,
+      "estudiante": {
+        "ru": "2023002",
+        "nombre": "Maria",
+        "paterno": "Lopez",
+        "materno": "Rojas",
+        "edad": 19
+      }
+    },
+    {
+      "materia": "Programación",
+      "notaFinal": 92.0,
+      "estudiante": {
+        "ru": "2023004",
+        "nombre": "Ana",
+        "paterno": "Flores",
+        "materno": "Condori",
+        "edad": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "nombre": "Mi Empresa",
+  "trabajadores": [
+    {
+      "ci": "1111",
+      "nombre": "Juan",
+      "cargo": "Gerente",
+      "salario": 10000.0
+    },
+    {
+      "ci": "2222",
+      "nombre": "Maria",
+      "cargo": "Secretaria",
+      "salario": 4000.0
+    },
+    {
+      "ci": "3333",
+      "nombre": "Carlos",
+      "cargo": "Contador",
+      "salario": 7000.0
+    },
+    {
+      "ci": "4444",
+      "nombre": "Ana",
+      "cargo": "Programadora",
+      "salario": 15000.0
+    }
+  ]
+}

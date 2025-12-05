@@ -1,0 +1,98 @@
+[
+  {
+    "material": "Cedro",
+    "nroCuerdas": 7,
+    "cuerdas": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "material": "Jacarandá",
+    "nroCuerdas": 10,
+    "cuerdas": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "material": "Jacarandá",
+    "nroCuerdas": 9,
+    "cuerdas": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "material": "Naranjillo",
+    "nroCuerdas": 8,
+    "cuerdas": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "material": "Palo santo",
+    "nroCuerdas": 10,
+    "cuerdas": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "material": "Palo santo",
+    "nroCuerdas": 5,
+    "cuerdas": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  }
+]

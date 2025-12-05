@@ -1,0 +1,52 @@
+{
+  "farmacias": [
+    {
+      "numeroSucursal": 101,
+      "direccion": "Av. Busch #123",
+      "medicamentos": [
+        {
+          "nombre": "Paracetamol",
+          "tipo": "Fiebre",
+          "precio": 10.0
+        }
+      ]
+    },
+    {
+      "numeroSucursal": 102,
+      "direccion": "Zona Sur, Calle 5",
+      "medicamentos": [
+        {
+          "nombre": "Tapsin",
+          "tipo": "Tos",
+          "precio": 25.0
+        },
+        {
+          "nombre": "Ibuprofeno",
+          "tipo": "Dolor",
+          "precio": 15.0
+        }
+      ]
+    },
+    {
+      "numeroSucursal": 103,
+      "direccion": "Miraflores, Av. 16 de Julio",
+      "medicamentos": [
+        {
+          "nombre": "Aspirina",
+          "tipo": "Dolor",
+          "precio": 12.0
+        },
+        {
+          "nombre": "Tapsin",
+          "tipo": "Tos",
+          "precio": 25.0
+        },
+        {
+          "nombre": "Jarabe Tos",
+          "tipo": "Tos",
+          "precio": 18.0
+        }
+      ]
+    }
+  ]
+}
