@@ -1,0 +1,55 @@
+{
+  "nombreArchivo": "ControlPediatrico2025",
+  "niños": [
+    {
+      "carnet": 1001,
+      "edad": 24,
+      "peso": 12.5,
+      "talla": 88.0,
+      "nombre": "Juan Carlos",
+      "apellidoPaterno": "Perez",
+      "apellidoMaterno": "Gomez",
+      "ci": "8765432"
+    },
+    {
+      "carnet": 1002,
+      "edad": 36,
+      "peso": 15.0,
+      "talla": 98.0,
+      "nombre": "Maria Elena",
+      "apellidoPaterno": "Lopez",
+      "apellidoMaterno": "Rojas",
+      "ci": "9876543"
+    },
+    {
+      "carnet": 1003,
+      "edad": 18,
+      "peso": 8.0,
+      "talla": 75.0,
+      "nombre": "Carlos Alberto",
+      "apellidoPaterno": "Quispe",
+      "apellidoMaterno": "Condori",
+      "ci": "7654321"
+    },
+    {
+      "carnet": 1004,
+      "edad": 30,
+      "peso": 18.0,
+      "talla": 95.0,
+      "nombre": "Ana Maria",
+      "apellidoPaterno": "Flores",
+      "apellidoMaterno": "Mamni",
+      "ci": "6543210"
+    },
+    {
+      "carnet": 1005,
+      "edad": 42,
+      "peso": 16.5,
+      "talla": 105.0,
+      "nombre": "Luis Fernando",
+      "apellidoPaterno": "Mamani",
+      "apellidoMaterno": "Torrez",
+      "ci": "5432109"
+    }
+  ]
+}

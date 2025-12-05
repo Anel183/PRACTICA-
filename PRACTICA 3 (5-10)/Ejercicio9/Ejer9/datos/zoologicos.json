@@ -1,0 +1,66 @@
+{
+  "nombre": "Zoo Bolivia 2025",
+  "zoologicos": [
+    {
+      "id": 2,
+      "nombre": "Zoo Santa Cruz",
+      "nroAnimales": 6,
+      "animales": [
+        {
+          "especie": "León",
+          "nombre": "Mufasa",
+          "cantidad": 2
+        },
+        {
+          "especie": "Jirafa",
+          "nombre": "Melman",
+          "cantidad": 4
+        },
+        {
+          "especie": "Cocodrilo",
+          "nombre": "Coco",
+          "cantidad": 5
+        },
+        {
+          "especie": "León",
+          "nombre": "Simba",
+          "cantidad": 3
+        },
+        {
+          "especie": "Tigre",
+          "nombre": "Rajah",
+          "cantidad": 2
+        },
+        {
+          "especie": "Oso",
+          "nombre": "Baloo",
+          "cantidad": 1
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}

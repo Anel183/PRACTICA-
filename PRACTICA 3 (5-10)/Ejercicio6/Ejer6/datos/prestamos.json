@@ -1,0 +1,106 @@
+{
+  "nomArchPrestamo": "Prestamos2025",
+  "prestamos": [
+    {
+      "codCliente": 1,
+      "codLibro": 1001,
+      "fechaPrestamo": "2025-10-01",
+      "cantidad": 2
+    },
+    {
+      "codCliente": 2,
+      "codLibro": 1001,
+      "fechaPrestamo": "2025-10-05",
+      "cantidad": 1
+    },
+    {
+      "codCliente": 1,
+      "codLibro": 1002,
+      "fechaPrestamo": "2025-10-10",
+      "cantidad": 1
+    },
+    {
+      "codCliente": 3,
+      "codLibro": 1005,
+      "fechaPrestamo": "2025-11-01",
+      "cantidad": 3
+    },
+    {
+      "codCliente": 1,
+      "codLibro": 1001,
+      "fechaPrestamo": "2025-10-01",
+      "cantidad": 2
+    },
+    {
+      "codCliente": 2,
+      "codLibro": 1001,
+      "fechaPrestamo": "2025-10-05",
+      "cantidad": 1
+    },
+    {
+      "codCliente": 1,
+      "codLibro": 1002,
+      "fechaPrestamo": "2025-10-10",
+      "cantidad": 1
+    },
+    {
+      "codCliente": 3,
+      "codLibro": 1005,
+      "fechaPrestamo": "2025-11-01",
+      "cantidad": 3
+    }
+  ],
+  "archLibro": {
+    "nomArchLibro": "LibrosUMSA",
+    "libros": [
+      {
+        "codLibro": 1001,
+        "titulo": "El Principito",
+        "precio": 45.0
+      },
+      {
+        "codLibro": 1002,
+        "titulo": "Cien Años de Soledad",
+        "precio": 80.0
+      },
+      {
+        "codLibro": 1003,
+        "titulo": "1984",
+        "precio": 60.0
+      },
+      {
+        "codLibro": 1004,
+        "titulo": "Don Quijote",
+        "precio": 120.0
+      },
+      {
+        "codLibro": 1005,
+        "titulo": "Harry Potter",
+        "precio": 90.0
+      }
+    ]
+  },
+  "archCliente": {
+    "nomArchCliente": "ClientesUMSA",
+    "clientes": [
+      {
+        "codCliente": 1,
+        "ci": "111111",
+        "nombre": "Juan",
+        "apellido": "Perez"
+      },
+      {
+        "codCliente": 2,
+        "ci": "222222",
+        "nombre": "Maria",
+        "apellido": "Lopez"
+      },
+      {
+        "codCliente": 3,
+        "ci": "333333",
+        "nombre": "Carlos",
+        "apellido": "Mamani"
+      }
+    ]
+  }
+}
